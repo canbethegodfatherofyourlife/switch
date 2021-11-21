@@ -1,0 +1,47 @@
+.bg{
+    background-color: rgb(46, 24, 58);
+    height: 100vh;
+    align-items: center;
+}
+
+.bulb-img{
+    height: 25vh;
+}
+
+.cat-img{
+    height: 48vh;
+}
+
+.card-container{
+    background-color: rgb(78, 218, 22);
+    height: 23vh;
+    margin-top: 20px ;
+    margin-bottom: 20px;
+    padding: 25px;
+    width: 300px;
+    border-radius: 15px;
+}
+
+.heading{
+    color: rgb(14, 19, 9);
+    text-align: center;
+}
+.on{
+    border-radius: 15px;
+    padding: 8px 15px 8px 15px;
+    margin: 8px;
+    width: 100px;
+    font-size: 25px;
+    background-color: #cbd2d9;
+    border-width: 0;
+}
+
+.off{
+    border-radius: 15px;
+    padding: 8px 15px 8px 15px;
+    margin: 8px;
+    width: 100px;
+    font-size: 25px;
+    background-color: #e12d39;
+    border-width: 0;
+}
